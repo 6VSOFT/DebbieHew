@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://6vsoft.github.io/DebbieHew/sitemap.xml
